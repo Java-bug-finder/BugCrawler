@@ -13,6 +13,7 @@ public class LoopTests {
 
     @Before
     public void setup(){
+
         loop = new Loops();
     }
 
