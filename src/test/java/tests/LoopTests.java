@@ -17,6 +17,7 @@ public class LoopTests {
         loop = new Loops();
     }
 
+    //checks to test for infinite loop
     @Test
     @Category(LoopTests.class)
     public void everloopTest(){
